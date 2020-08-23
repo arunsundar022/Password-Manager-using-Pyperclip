@@ -1,2 +1,2 @@
-@py.exe C:\Users\Arun\Documents\password\pw.py %*
+@py.exe your_py_file_location %*
 @pause
