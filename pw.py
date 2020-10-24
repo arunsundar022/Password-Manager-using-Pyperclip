@@ -2,7 +2,7 @@ import sys,pyperclip
 
 
 passwords = {
-    'account_name':'password', #add your account and password here
+    'account_name':'password', 
     
 }
 
